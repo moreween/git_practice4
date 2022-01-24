@@ -6,6 +6,8 @@ public class TestCase001 {
 
         System.out.println("Test case");
 
+        int a = 10;
+
 
     }
 }
