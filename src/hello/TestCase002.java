@@ -8,6 +8,8 @@ public class TestCase002 {
 
         System.out.println("This is test case 002");
 
+        double c = 2;
+
     }
 
 }
